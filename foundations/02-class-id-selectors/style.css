@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255,200,200);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.sex {
+    font-size: 24px;
+}
+
+#gay {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#wack {
+    background-color: rgb(0,200,100);
+    font-size: 24px;
+    font-weight: 700;
+}
